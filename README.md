@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil-Ahamed
 - 👀 Interested in Cyber Security.
-- 🌱 Currently learning Programing Languages and Cyber Security
+- 🌱 Currently learning  Networking, Binary_Exploitation, Malware_Analysis, Reverse_Engineering.
 - 💞️ I’m looking to collaborate on projects on Programing and Cyber Security.
 - 😊 At the last, an Enthusiastic Learner.
 - 📧 Contact:- sahilahamed360@protonmail.com
