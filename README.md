@@ -6,7 +6,7 @@ Cybersecurity Researcher focused on binary analysis, malware behavior, and low-l
 
 ## Interests
 - Static & Dynamic Malware Analysis
-- PE/ELF Internals
+- Reverse Engineering
 - Memory Forensics
 - Windows & Linux Internals
 - Low-Level Program Analysis
